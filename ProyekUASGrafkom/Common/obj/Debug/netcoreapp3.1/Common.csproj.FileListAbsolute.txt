@@ -1,0 +1,30 @@
+C:\Users\A C E R\Downloads\Compressed\New folder\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\A C E R\Downloads\Compressed\New folder\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\A C E R\Downloads\Compressed\New folder\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\A C E R\Downloads\Compressed\New folder\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\A C E R\Downloads\Compressed\New folder\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R\Downloads\Compressed\New folder\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\A C E R\Downloads\Compressed\New folder\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\A C E R\Downloads\Compressed\New folder\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\A C E R\Downloads\Compressed\New folder\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\A C E R\Downloads\Compressed\New folder\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\USER ASUS\Downloads\OpenTK\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\USER ASUS\Downloads\OpenTK\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\USER ASUS\Downloads\OpenTK\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\USER ASUS\Downloads\OpenTK\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER ASUS\Downloads\OpenTK\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\USER ASUS\Downloads\OpenTK\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\USER ASUS\Downloads\OpenTK\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\USER ASUS\Downloads\OpenTK\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb

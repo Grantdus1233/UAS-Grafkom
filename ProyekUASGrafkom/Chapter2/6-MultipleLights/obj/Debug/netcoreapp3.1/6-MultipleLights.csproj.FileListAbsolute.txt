@@ -1,0 +1,137 @@
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\container2.png
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\container2_specular.png
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\grass.jpg
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\stone.jpg
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\water.jpg
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\wood.jpg
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\lighting.frag
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\shader.frag
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\shader.vert
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.exe
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.deps.json
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.runtimeconfig.json
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.runtimeconfig.dev.json
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.pdb
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\SharpGL.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.csproj.AssemblyReference.cache
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.AssemblyInfoInputs.cache
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.AssemblyInfo.cs
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.csproj.CoreCompileInputs.cache
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.csproj.CopyComplete
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\LearnOpenTK.dll
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\LearnOpenTK.pdb
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.genruntimeconfig.cache
+C:\Users\A C E R\Documents\joki tugas\coding blender\LearnOpenTK-master\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\leaves.png
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\container2.png
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\container2_specular.png
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\grass.jpg
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\leaves.png
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\stone.jpg
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\water.jpg
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\wood.jpg
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\lighting.frag
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\shader.frag
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\shader.vert
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.exe
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.deps.json
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.runtimeconfig.json
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.runtimeconfig.dev.json
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.pdb
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\SharpGL.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.csproj.AssemblyReference.cache
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.AssemblyInfoInputs.cache
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.AssemblyInfo.cs
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.csproj.CoreCompileInputs.cache
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.csproj.CopyComplete
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\LearnOpenTK.dll
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\LearnOpenTK.pdb
+C:\Users\USER ASUS\Downloads\OpenTK\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.genruntimeconfig.cache
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\container2.png
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\grass.jpg
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\leaves.png
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\stone.jpg
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\wood.jpg
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\lighting.frag
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\shader.frag
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\shader.vert
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.exe
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.deps.json
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.runtimeconfig.json
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.runtimeconfig.dev.json
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.pdb
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\SharpGL.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.csproj.AssemblyReference.cache
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.AssemblyInfoInputs.cache
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.AssemblyInfo.cs
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.csproj.CoreCompileInputs.cache
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.csproj.CopyComplete
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\LearnOpenTK.dll
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\LearnOpenTK.pdb
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\6-MultipleLights.genruntimeconfig.cache
+C:\Users\USER ASUS\Downloads\ProyekUASGrafkom\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\container2_specular.png
